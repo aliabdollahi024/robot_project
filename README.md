@@ -28,12 +28,12 @@
     <img src="images/turasistan-trobot-main.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">robot simulated with ros</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    a project that simulates path of a robot !
     <br />
-    <a href="https://github.com/aliabdollahi024/robot_project"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/aliabdollahi024/robot_project"><strong>see files »</strong></a>
     <br />
     <br />
     <a href="https://github.com/aliabdollahi024/robot_project">View Demo</a>
