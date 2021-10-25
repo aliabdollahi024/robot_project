@@ -31,7 +31,7 @@
   <h3 align="center">robot simulated with ros</h3>
 
   <p align="center">
-    a project that simulates path of a robot !
+    a project that simulates path of a robot in ros !
     <br />
     <a href="https://github.com/aliabdollahi024/robot_project"><strong>see files »</strong></a>
     <br />
@@ -39,8 +39,7 @@
     <a href="https://github.com/aliabdollahi024/robot_project">View Demo</a>
     ·
     <a href="https://github.com/aliabdollahi024/robot_project/issues">Report Bug</a>
-    ·
-    <a href="https://aliabdollahi024/robot_project/issues">Request Feature</a>
+    
   </p>
 </div>
 
