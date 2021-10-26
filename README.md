@@ -112,19 +112,11 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+1. install ros with  [https://ros.org](https://ros.org)
+2. install gazebo
+
+3. run files in [final_proj](https://github.com/aliabdollahi024/robot_project/tree/main/final_proj)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -188,7 +180,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-ali abdollahi - [@your_twitter](https://twitter.com/aliabdollahi024) - aliabdollahi024a@gmail.com
+ali abdollahi - [@aliabdollahi024](https://twitter.com/aliabdollahi024) - aliabdollahi024a@gmail.com
 
 Project Link: [https://github.com/aliabdollahi024/robot_project](https://github.com/aliabdollahi024/robot_project)
 
