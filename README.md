@@ -115,7 +115,7 @@ this project with some changes can be used to control a robot in real space with
 <!-- LICENSE -->
 ## License
 
- See `LICENSE.txt` for more information.
+ See `LICENSE` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
